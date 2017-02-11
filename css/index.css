@@ -69,7 +69,7 @@ a, img {
 
 
 .banner{
-	background-image: url(../images/banner-bg.jpg);
+	background-image: url(../images/welbg.jpg);
 	height: 300px;
 	-webkit-background-size: cover;
 	background-size: cover;
@@ -151,7 +151,7 @@ a, img {
 	display: block;
 	content: "";
 	width: 100%;
-	height: 100%;	
+	height: 100%;
 	position: absolute;
 	top:0;
 	left: 0;
