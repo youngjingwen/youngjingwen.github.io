@@ -16,7 +16,7 @@ title: github pages md文档中图片链接失效
 
 #### 具体步骤：
 
- 1.将markdown需要的图片放到git仓库中，发布到Github上
- 2.访问Github仓库，找到图片
- 3.右键点击图片，在新标签页中打开图片
- 4.拷贝链接地址，在markdown中引用图片
+ 1. 将markdown需要的图片放到git仓库中，发布到Github上
+ 2. 访问Github仓库，找到图片
+ 3. 右键点击图片，在新标签页中打开图片
+ 4. 拷贝链接地址，在markdown中引用图片
