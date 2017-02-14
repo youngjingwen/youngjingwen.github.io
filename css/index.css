@@ -190,7 +190,7 @@ a, img {
 	font-size: 1.2rem;
 	padding-left: 2rem;
 }
-.postlist li {
+.postlist li a{
 	display: block;
   text-decoration: none;
   color: rgba(0,0,0,0.8);
@@ -200,11 +200,9 @@ a, img {
   box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 1px 4px;
   border-radius: 5px;
 }
-.postlist li a {
-	color: rgba(0,0,0,0.8)
-}
+
 .postlist li span {
 	font-size: 0.8rem;
-	color:rgba(0,0,0,0.5);
 	padding-left: 10px;
+	color: #777777;
 }
