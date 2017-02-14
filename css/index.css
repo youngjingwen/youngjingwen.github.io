@@ -105,9 +105,7 @@ a, img {
 .container{
 	width: 96%;
 	max-width: 960px;
-	background-color: rgba(0,0,0,0.1);
 	margin: 10px auto;
-	border-radius: 5px;
 }
 .contain{
 	width: 100%;
@@ -197,9 +195,14 @@ a, img {
   text-decoration: none;
   color: rgba(0,0,0,0.8);
   width: 100%;
-  margin: 0 auto;
   margin-top: 20px;
   padding: 16px;
   box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 1px 4px;
   border-radius: 5px;
+}
+.postlist li a {
+	color: rgba(0,0,0,0.8)
+}
+.postlist li span {
+	font-size: 1.0rem
 }
