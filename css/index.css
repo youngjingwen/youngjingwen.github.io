@@ -184,7 +184,6 @@ a, img {
 
 /*post ul*/
 .posttitle{
-	color:rgba(0,0,0,0.8);
 	padding-left: 1.2%;
 }
 .postlist{
@@ -196,7 +195,7 @@ a, img {
 .postlist li {
 	display: block;
   text-decoration: none;
-  color: #212121;
+  color: rgba(0,0,0,0.8);
   width: 100%;
   max-width: 600px;
   margin: 0 auto;
