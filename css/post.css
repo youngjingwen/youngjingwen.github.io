@@ -60,6 +60,10 @@ a, img {
 	box-shadow: 0 2px 3px rgba(0,0,0,0.2);
 }
 .button a{
+	display: block;
+	width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
 	color:#fff;
 	font-size: 1.4rem;
 }
